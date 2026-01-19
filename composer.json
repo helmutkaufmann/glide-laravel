@@ -5,9 +5,15 @@
     "license": "MIT",
     "authors" : [
         {
+            "name": "Helmut Kaufmann",
+            "email": "software@mercator.li",
+            "role": "Original author"
+        },
+        {
             "name": "Jonathan Reinink",
             "email": "jonathan@reinink.ca",
-            "homepage": "http://reinink.ca"
+            "homepage": "http://reinink.ca",
+            "role": "Original author"
         }
     ],
     "require": {
